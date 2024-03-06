@@ -1,0 +1,16 @@
+[
+    {
+        "title": "project no 1",
+        "details": "this is the first project to build a todo list app",
+        "total_target": "102100",
+        "start_date": "2022-12-12",
+        "end_date": "2024-12-12",
+        "owner": {
+            "first_name": "menna",
+            "last_name": "abdallah",
+            "email": "menna12@gmail.com",
+            "password": "menna10102001",
+            "mobile_phone": "+2001153039490"
+        }
+    }
+]
